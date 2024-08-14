@@ -50,13 +50,6 @@ connectDB()
 
 
 
-
-
-
-
-
-
-
 /*
 
 import express from 'expess'
